@@ -87,7 +87,7 @@ Considerada sua obra-prima e seu livro mais acessível, a narrativa marca uma tr
 - Estilo literário: Fluxo de consciência, metalinguagem e ruptura da narrativa linear, aproximando-se de Virginia Woolf e James Joyce. 
 
 ### Glossário de Conceitos 📖⭐
-| Emoji | Conceito                  | Definição                                                                 | Obra de Referência                  |
+|       | Conceito                  | Definição                                                                 | Obra de Referência                  |
 |-------|---------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | 🕊️    | Solidão                   | Estado de plenitude e encontro consigo mesma.                             | *Um Sopro de Vida*                  |
 | ✨    | Epifania                  | Instante de revelação súbita que transforma o banal em extraordinário.    | *A Paixão Segundo G.H.*             |
