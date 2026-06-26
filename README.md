@@ -22,7 +22,7 @@ Construir um "segundo cérebro" inspirado nas obras e pensamentos de Clarice Lis
 - [Ebiografia - Clarice Lispector](https://www.ebiografia.com/clarice_lispector/)  
 - [Brasil Escola - Clarice Lispector](https://brasilescola.uol.com.br/biografia/clarice-lispector.htm)  
 
-## 🔗 NotebookLM
+## 🔗💻 NotebookLM
 
 Este miniguia está conectado ao meu espaço de estudos no [NotebookLM](https://notebooklm.google.com/notebook/a38ae59b-b685-4be4-8849-809c0988b65c).  
 A ferramenta apoia o processo de aprendizado com recursos avançados, como:  
@@ -70,13 +70,13 @@ Considerada sua obra-prima e seu livro mais acessível, a narrativa marca uma tr
   ✅ Solução: detalhar o contexto (obra, personagem, tema).  
 
 
-**Dificuldades encontradas:**  
+** 💥 Dificuldades encontradas: 💥**  
 - Respostas superficiais → solução: especificar a obra ou pedir exemplos textuais.  
 - Interpretações genéricas → solução: solicitar citações curtas ou trechos de entrevistas.  
 
 ## 📖 Miniguia de Estudo
 
-### Resumos Estruturados
+### 📔 Resumos Estruturados 📔
 - Clarice Lispector nasceu em 1920 na Ucrânia e se mudou para o Brasil ainda bebê.  
 - Sua escrita é marcada por introspecção, fluxo de consciência e questionamentos existenciais.  
 - Obras como *A Hora da Estrela* e *Perto do Coração Selvagem* exploram subjetividade, silêncio e epifanias.
@@ -86,7 +86,7 @@ Considerada sua obra-prima e seu livro mais acessível, a narrativa marca uma tr
 - A Hora da Estrela: Obra-prima que une introspecção e dimensão social, narrando a insignificância ontológica de Macabéa e sua epifania na morte.
 - Estilo literário: Fluxo de consciência, metalinguagem e ruptura da narrativa linear, aproximando-se de Virginia Woolf e James Joyce. 
 
-### Glossário de Conceitos 📖⭐
+### ⭐📖 Glossário de Conceitos 📖⭐
 |       | Conceito                  | Definição                                                                 | Obra de Referência                  |
 |-------|---------------------------|---------------------------------------------------------------------------|-------------------------------------|
 | 🕊️    | Solidão                   | Estado de plenitude e encontro consigo mesma.                             | *Um Sopro de Vida*                  |
@@ -102,7 +102,7 @@ Considerada sua obra-prima e seu livro mais acessível, a narrativa marca uma tr
 
 
 
-### Prompts Reutilizáveis
+### 🖥️ Prompts Reutilizáveis 🖥️
 | Prompt                                                                             | Objetivo                                                                 | Obra de Referência                  |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------|
 | "Resuma *A Hora da Estrela* em 10 frases."                                         | Revisão rápida da obra-prima de Clarice.                                 | *A Hora da Estrela*                 |
@@ -118,7 +118,7 @@ Considerada sua obra-prima e seu livro mais acessível, a narrativa marca uma tr
 
 ----
 
-## 🌟 Reflexão Final
+## 🌟 Reflexão Final 🌟
 
 Este miniguia não é apenas um resumo da obra de Clarice Lispector, mas um exercício de construção de um "segundo cérebro" literário.  
 Ao reunir conceitos como solidão, epifania e fluxo de consciência, pude compreender que a escrita de Clarice é também um ato de existir — uma forma de transformar o cotidiano banal em revelação existencial.  
